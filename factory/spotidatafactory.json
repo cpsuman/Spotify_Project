@@ -1,0 +1,9 @@
+{
+	"name": "spotidatafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9331633-d711-44b4-8eb2-d374a54b86dc",
+		"tenantId": "fd732000-bc68-4ad7-bf6b-774a067a6ad7"
+	}
+}
